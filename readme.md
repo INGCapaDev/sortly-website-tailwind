@@ -2,7 +2,7 @@
 
 ## Link
 
-https://shortly-website.vercel.app
+https://shortly-tw.netlify.app/
 
 ## Preview
 
